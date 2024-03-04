@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Install shadcn
+
+$ npx shadcn-ui@latest init
+
+参考サイト
+https://qiita.com/twrcd1227/items/d4a67bb155503fde30f5
+
+## Install radix-ui Icons
+
+npm install @radix-ui/react-icons
+
+参考サイト
+https://zenn.dev/nino_cast/books/43c539eb47caab/viewer/807f3b
